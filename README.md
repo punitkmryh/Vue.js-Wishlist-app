@@ -1,4 +1,4 @@
-# Vue Wishlist
+# Vue Todo
 
 A Simple Todo app built with [vue.js](https://vuejs.org/)
 
